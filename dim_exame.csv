@@ -1,0 +1,11 @@
+sk_exame,tipo_exame,categoria_exame
+1,Hemograma,Laboratorial
+2,Ressonância,Imagem
+3,Raio-X,Imagem
+4,Ultrassom,Imagem
+5,Eletrocardiograma,Funcional
+6,Tomografia,Imagem
+7,Glicemia,Laboratorial
+8,Colesterol,Laboratorial
+9,Biópsia,Procedimento
+10,Teste COVID,Laboratorial

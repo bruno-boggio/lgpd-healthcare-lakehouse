@@ -1,0 +1,11 @@
+sk_paciente,token_paciente,sexo,ano_nascimento,cidade,data_cadastro
+1,tk_9f8a1,M,1985,São Paulo,2023-02-01
+2,tk_a73b2,F,1990,Rio de Janeiro,2023-03-01
+3,tk_7c21e,M,1978,Belo Horizonte,2023-04-01
+4,tk_2d9f4,F,2000,Curitiba,2023-05-01
+5,tk_b811c,F,1982,Porto Alegre,2023-06-01
+6,tk_4f91a,M,1995,Florianópolis,2023-07-01
+7,tk_c3e72,F,1988,Salvador,2023-08-01
+8,tk_19aa2,M,1970,Recife,2023-09-01
+9,tk_8dd31,F,1999,Campinas,2023-10-01
+10,tk_aa772,M,1983,Santos,2023-11-01

@@ -1,0 +1,11 @@
+id_atendimento,data_atendimento,nome_paciente,cpf,email,sexo,data_nascimento,cidade_paciente,nome_medico,crm_medico,especialidade_medica,clinica,estado_clinica,diagnostico,cid,exame,tipo_exame,valor_atendimento,plano_saude,observacoes
+1,2024-01-05,João da Silva,12345678901,joao@email.com,M,1985-05-10,São Paulo,Dr. João Almeida,CRM-SP-123456,Cardiologia,Hospital Central,SP,Hipertensão,I10,Hemograma,Laboratorial,350,Unimed,Paciente relatou dor
+2,2024-01-06,Maria Souza,23456789012,maria@email.com,F,1990-08-21,Rio de Janeiro,Dra. Mariana Costa,CRM-RJ-234567,Ortopedia,Clínica Vida,SP,Diabetes tipo 2,E11,Ressonância,Imagem,200,Amil,Controle periódico
+3,2024-01-07,Carlos Lima,34567890123,carlos@email.com,M,1978-03-03,Belo Horizonte,Dr. Carlos Pereira,CRM-MG-345678,Pediatria,Lab Saúde,RJ,Asma,J45,Raio-X,Imagem,180,SulAmérica,Uso contínuo de medicação
+4,2024-01-08,Ana Costa,45678901234,ana@email.com,F,2000-11-14,Curitiba,Dr. Rafael Santos,CRM-SP-456789,Clínico Geral,Hospital Regional,MG,Dor lombar,M54,Ultrassom,Imagem,220,Particular,Primeira consulta
+5,2024-01-09,Paula Rocha,56789012345,paula@email.com,F,1982-06-07,Porto Alegre,Dra. Ana Oliveira,CRM-PR-567890,Dermatologia,Clínica Bem Estar,PR,Depressão,F32,Eletrocardiograma,Funcional,500,Bradesco,Histórico familiar
+6,2024-01-10,Lucas Pires,67890123456,lucas@email.com,M,1995-01-30,Florianópolis,Dr. Bruno Lima,CRM-RS-678901,Neurologia,Hospital Sul,RS,Obesidade,E66,Tomografia,Imagem,600,Unimed,Acompanhamento anual
+7,2024-01-11,Juliana Alves,78901234567,juliana@email.com,F,1988-09-09,Salvador,Dra. Fernanda Rocha,CRM-SC-789012,Ginecologia,Clínica Norte,SC,Epilepsia,G40,Glicemia,Laboratorial,250,Amil,Paciente gestante
+8,2024-01-12,Roberto Nunes,89012345678,roberto@email.com,M,1970-04-18,Recife,Dr. Paulo Nogueira,CRM-SP-890123,Oncologia,Lab Diagnóstico,SP,Infecção urinária,N39,Colesterol,Laboratorial,700,Particular,Retorno em 30 dias
+9,2024-01-13,Beatriz Moraes,90123456789,beatriz@email.com,F,1999-12-02,Campinas,Dra. Beatriz Farias,CRM-BA-901234,Endocrinologia,Hospital Leste,BA,Refluxo,K21,Biópsia,Procedimento,150,SulAmérica,Sintomas leves
+10,2024-01-14,Fernando Araujo,01234567890,fernando@email.com,M,1983-07-25,Santos,Dr. Eduardo Mendes,CRM-PE-012345,Psiquiatria,Clínica Oeste,PE,Câncer de mama,C50,Teste COVID,Laboratorial,900,Bradesco,Tratamento iniciado
