@@ -1,11 +1,101 @@
 sk_medico,nome_medico,crm
-1,Dr. João Almeida,CRM-SP-123456
-2,Dra. Mariana Costa,CRM-RJ-234567
-3,Dr. Carlos Pereira,CRM-MG-345678
-4,Dr. Rafael Santos,CRM-SP-456789
-5,Dra. Ana Oliveira,CRM-PR-567890
-6,Dr. Bruno Lima,CRM-RS-678901
-7,Dra. Fernanda Rocha,CRM-SC-789012
-8,Dr. Paulo Nogueira,CRM-SP-890123
-9,Dra. Beatriz Farias,CRM-BA-901234
-10,Dr. Eduardo Mendes,CRM-PE-012345
+1,Dr. Antonio Carlos Pereira,CRM/SP 123456
+2,Dra. Beatriz Martins Silva,CRM/RJ 234567
+3, Dr. Claudio Roberto Santos ,CRM/MG 345678
+4,Dra. Diana Fernandes Costa,
+5,Dr. Eduardo Alves Lima,CRM/RS 567890
+6,Dra. fabiana souza rocha,CRM/BA 678901
+7,Dr. Gabriel Mendes Dias,CRM PR 789012
+8,Dra. Helena Rodrigues Carvalho,CRM/SC 890123
+9,DR. IGOR BARBOSA OLIVEIRA,CRM/DF 901234
+10,,CRM/PE 012345
+11,Dra. Juliana Costa Ferreira,CRM/SP 112233
+12,Dr. Lucas Almeida Santos,CRM/RJ 223344
+13,Dra. Marina Ribeiro Lima,CRM/MG 334455
+14,Dr. Nicolas Pereira Rocha,CRM/SP 445566
+15,Dra. Olivia Santos Dias,CRM/RS 556677
+16,Dr. Paulo Henrique Costa,CRM/BA
+17,Dra. Rafaela Lima Mendes,CRM/PR 778899
+18,Dr. Samuel Oliveira Silva,CRM/SC 889900
+19, Dra. Tatiana Rocha Santos ,CRM/DF 990011
+20,Dr. Vinicius Mendes Lima,CRM/PE 101112
+21,Dra. Amanda Silva Costa,CRM/SP 121314
+22,Dr. bruno dias oliveira,CRM/RJ 131415
+23,Dra. Carolina Mendes Rocha,CRM/MG
+24,Dr. Daniel Santos Lima,CRM/SP 151617
+25,,CRM/RS 161718
+26,Dra. Fernanda Costa Dias,CRM/BA 171819
+27,Dr. Guilherme Lima Santos,CRM/PR 181920
+28,DRA. HELENA SILVA ROCHA,CRM/SC 192021
+29,Dr. Igor Mendes Costa,CRM/DF 202122
+30,Dra. Júlia Oliveira Lima,CRM/PE 212223
+31,Dr. Leonardo Rocha Santos,CRM/SP
+32,Dra. Mariana Dias Silva,CRM/RJ 232425
+33,Dr. Nathan Costa Oliveira,crm/mg 242526
+34,Dra. Olivia Lima Mendes,CRM/SP 252627
+35,Dr. Pedro Santos Rocha,CRM/RS 262728
+36, Dra. Rafaela Silva Dias ,CRM/BA 272829
+37,Dr. Rodrigo Mendes Costa,CRM/PR 282930
+38,Dra. Sophia Oliveira Lima,
+39,Dr. Thiago Rocha Santos,CRM/DF 303132
+40,Dra. Valentina Costa Silva,CRM/PE 313233
+41,DR. ARTHUR LIMA MENDES,CRM/SP 323334
+42,Dra. Bianca Santos Rocha,CRM/RJ 333435
+43,Dr. Caio Dias Oliveira,CRM/MG 343536
+44,Dra. Diana Lima Costa,CRM/SP
+45,Dr. Emanuel Rocha Santos,CRM/RS 353637
+46,Dra. fernanda silva mendes,CRM/BA 363738
+47,Dr. Gabriel Costa Dias,CRM/PR 373839
+48,Dra. Helena Oliveira Lima,CRM/SC 383940
+49,Dr. Isaac Mendes Rocha,CRM/DF
+50,,CRM/PE 404142
+51,Dra. Laura Silva Costa,CRM/SP 414243
+52,Dr. Miguel Santos Dias,CRM/RJ 424344
+53,Dra. Natália Lima Oliveira,CRM/MG 434445
+54,Dr. oliver rocha mendes,CRM/SP 444546
+55,Dra. Pietra Costa Santos,CRM/RS 454647
+56,Dr. Rafael Silva Lima,CRM/BA 464748
+57, Dra. Sophia Mendes Dias ,CRM/PR
+58,Dr. Theo Oliveira Rocha,CRM/SC 484950
+59,DRA. VALENTINA LIMA COSTA,CRM/DF 495051
+60,Dr. Yuri Santos Silva,CRM/PE 505152
+61,Dra. Ana Beatriz Rocha Mendes,CRM/SP 515253
+62,Dr. Benjamin Costa Dias,CRM/RJ 525354
+63,Dra. Cecília Lima Santos,CRM/MG
+64,Dr. Davi Oliveira Rocha,CRM/SP 535455
+65,Dra. Elisa Silva Mendes,CRM/RS 545556
+66,Dr. felipe dias costa,CRM/BA 555657
+67,Dra. Giovanna Lima Santos,CRM/PR 565758
+68,Dr. Heitor Rocha Oliveira,CRM/SC 575859
+69,Dra. Isabella Mendes Silva,CRM/DF
+70,Dr. João Miguel Costa Lima,CRM/PE 596061
+71,DRA. LARISSA SANTOS ROCHA,CRM/SP 606162
+72,Dr. Lorenzo Dias Oliveira,CRM/RJ 616263
+73,Dra. Manuela Silva Costa,CRM/MG 626364
+74,Dr. Noah Lima Mendes,
+75,Dra. Antonella Rocha Santos,CRM/RS 636465
+76, Dr. Pietro Costa Dias ,CRM/BA 646566
+77,Dra. Ravi Silva Oliveira,CRM/PR 656667
+78,Dr. Samuel Mendes Lima,CRM/SC 666768
+79,Dra. theodora rocha costa,CRM/DF 676869
+80,Dr. Vicente Santos Silva,CRM/PE
+81,Dra. Alice Lima Dias,CRM/SP 687071
+82,Dr. Bernardo Rocha Mendes,CRM/RJ 697172
+83,Dra. Catarina Costa Santos,CRM/MG 707273
+84,DR. DANIEL SILVA LIMA,CRM/SP 717374
+85,Dra. Esther Oliveira Rocha,CRM/RS 727475
+86,Dr. Gael Mendes Costa,CRM/BA
+87,Dra. Isabelly Lima Santos,CRM/PR 737576
+88,Dr. Levi Dias Oliveira,crm/sc 747677
+89, Dra. Melissa Rocha Silva ,CRM/DF 757778
+90,Dr. Nicolas Costa Mendes,CRM/PE 767879
+91,Dra. Olivia Santos Lima,CRM/SP
+92,Dr. pedro henrique dias rocha,CRM/RJ 778081
+93,Dra. Rafaela Silva Costa,CRM/MG 788182
+94,Dr. Samuel Oliveira Mendes,CRM/SP 798283
+95,DRA. TATIANA LIMA SANTOS,CRM/RS 808384
+96,Dr. Vinicius Rocha Dias,CRM/BA 818485
+97,Dra. Yasmin Costa Silva,CRM/PR 828586
+98,,CRM/SC 838687
+99,Dra. Aurora Mendes Lima,CRM/DF 848788
+100,Dr. Bryan Santos Rocha,CRM/PE

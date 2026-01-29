@@ -1,11 +1,101 @@
 sk_clinica,tipo_clinica,estado
-1,Hospital,SP
-2,Clínica,SP
-3,Laboratório,RJ
-4,Hospital,MG
-5,Clínica,PR
-6,Hospital,RS
-7,Clínica,SC
-8,Laboratório,SP
-9,Hospital,BA
-10,Clínica,PE
+1, Clínica Geral ,SP
+2,Cardiologia,RJ
+3,ORTOPEDIA,MG
+4,Dermatologia,
+5,Pediatria,RS
+6,neurologia,BA
+7,Oftalmologia,PR
+8,Ginecologia,SC
+9,Psiquiatria,DF
+10,Urologia,PE
+11,Clínica Geral,SP
+12,  Cardiologia  ,RJ
+13,Ortopedia,MG
+14,dermatologia,SP
+15,,RS
+16,Neurologia,BA
+17,OFTALMOLOGIA,PR
+18,Ginecologia,
+19,psiquiatria,DF
+20,Urologia,PE
+21,Clínica Geral,sp
+22,Cardiologia,rj
+23,Ortopedia,MG
+24,Dermatologia,SP
+25,Pediatria,
+26,Neurologia,BA
+27,Oftalmologia,PR
+28,Ginecologia,SC
+29,Psiquiatria,df
+30,Urologia,PE
+31,Clínica Geral,SP
+32,Cardiologia,RJ
+33,Ortopedia,mg
+34,Dermatologia,SP
+35,Pediatria,RS
+36,,BA
+37,Oftalmologia,PR
+38,Ginecologia,SC
+39,Psiquiatria,DF
+40,Urologia,pe
+41,CLÍNICA GERAL,SP
+42,cardiologia,RJ
+43,Ortopedia,MG
+44,Dermatologia,SP
+45,Pediatria,RS
+46,Neurologia,
+47,Oftalmologia,PR
+48,Ginecologia,SC
+49,Psiquiatria,DF
+50,Urologia,PE
+51,Clínica Geral,SP
+52,Cardiologia,RJ
+53,Ortopedia,MG
+54,Dermatologia,sp
+55,Pediatria,RS
+56,Neurologia,BA
+57,Oftalmologia,pr
+58,Ginecologia,SC
+59,Psiquiatria,DF
+60,Urologia,PE
+61,Clínica Geral,
+62,Cardiologia,RJ
+63,ortopedia,MG
+64,Dermatologia,SP
+65,Pediatria,RS
+66,Neurologia,BA
+67,Oftalmologia,PR
+68,,SC
+69,Psiquiatria,DF
+70,Urologia,PE
+71,Clínica Geral,SP
+72,Cardiologia,rj
+73,Ortopedia,MG
+74,Dermatologia,SP
+75,Pediatria,rs
+76,Neurologia,BA
+77,Oftalmologia,PR
+78,Ginecologia,SC
+79,Psiquiatria,DF
+80,,PE
+81,Clínica Geral,SP
+82,Cardiologia,RJ
+83,Ortopedia,MG
+84,DERMATOLOGIA,SP
+85,Pediatria,RS
+86,Neurologia,BA
+87,,PR
+88,Ginecologia,SC
+89,Psiquiatria,DF
+90,Urologia,PE
+91, Clínica Geral,SP
+92,Cardiologia ,RJ
+93,Ortopedia,mg
+94,Dermatologia,SP
+95,Pediatria,RS
+96,neurologia,ba
+97,Oftalmologia,PR
+98,Ginecologia,SC
+99,PSIQUIATRIA,DF
+100,Urologia,PE

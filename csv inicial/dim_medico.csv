@@ -1,11 +1,101 @@
 sk_medico,especialidade,uf_crm,ativo
 1,Cardiologia,SP,1
 2,Ortopedia,RJ,1
-3,Pediatria,MG,1
-4,Clínico Geral,SP,1
-5,Dermatologia,PR,1
-6,Neurologia,RS,1
-7,Ginecologia,SC,1
-8,Oncologia,SP,1
-9,Endocrinologia,BA,1
-10,Psiquiatria,PE,1
+3,PEDIATRIA,MG,1
+4,Dermatologia,,1
+5,Neurologia,RS,1
+6,ginecologia,BA,1
+7,Psiquiatria,PR,0
+8,Urologia,SC,1
+9,,DF,1
+10,Clínica Geral,PE,1
+11,Cardiologia,sp,1
+12,Ortopedia,RJ,
+13,Pediatria,MG,1
+14,dermatologia,SP,1
+15,Neurologia,RS,2
+16,Ginecologia,,1
+17,PSIQUIATRIA,PR,1
+18,Urologia,SC,0
+19,Oftalmologia,DF,1
+20,Clínica Geral,pe,1
+21, Cardiologia ,SP,1
+22,Ortopedia,rj,1
+23,Pediatria,MG,1
+24,Dermatologia,SP,1
+25,Neurologia,RS,1
+26,Ginecologia,BA,
+27,Psiquiatria,PR,1
+28,Urologia,sc,1
+29,Oftalmologia,DF,1
+30,Clínica Geral,PE,0
+31,CARDIOLOGIA,SP,1
+32,ortopedia,RJ,1
+33,Pediatria,,1
+34,Dermatologia,SP,1
+35,Neurologia,RS,1
+36,Ginecologia,BA,1
+37,Psiquiatria,pr,
+38,Urologia,SC,1
+39,Oftalmologia,DF,1
+40,Clínica Geral,PE,1
+41,Cardiologia,SP,1
+42,Ortopedia,RJ,1
+43,pediatria,MG,1
+44,Dermatologia,SP,0
+45,,RS,1
+46,Ginecologia,BA,1
+47,Psiquiatria,PR,1
+48,urologia,SC,1
+49,Oftalmologia,df,1
+50,Clínica Geral,PE,
+51,Cardiologia,SP,1
+52,Ortopedia,RJ,1
+53,Pediatria,MG,1
+54,DERMATOLOGIA,sp,1
+55,Neurologia,RS,1
+56,Ginecologia,BA,0
+57,Psiquiatria,PR,1
+58,Urologia,SC,1
+59,,DF,1
+60,Clínica Geral,PE,1
+61,Cardiologia,,1
+62,ortopedia,RJ,1
+63,Pediatria,MG,
+64,Dermatologia,SP,1
+65,neurologia,RS,1
+66,Ginecologia,ba,1
+67,Psiquiatria,PR,1
+68,Urologia,SC,0
+69,Oftalmologia,DF,1
+70,clínica geral,PE,1
+71,CARDIOLOGIA,SP,1
+72,Ortopedia,RJ,1
+73,Pediatria,mg,1
+74,Dermatologia,SP,
+75,Neurologia,RS,1
+76,GINECOLOGIA,BA,1
+77,Psiquiatria,PR,1
+78,Urologia,,1
+79,Oftalmologia,DF,0
+80,Clínica Geral,PE,1
+81,Cardiologia,SP,1
+82,Ortopedia,rj,1
+83,,MG,1
+84,Dermatologia,SP,1
+85,Neurologia,rs,
+86,Ginecologia,BA,1
+87,psiquiatria,PR,1
+88,Urologia,SC,1
+89,Oftalmologia,DF,1
+90,Clínica Geral,pe,0
+91,Cardiologia,SP,1
+92, Ortopedia,RJ,1
+93,Pediatria,MG,1
+94,Dermatologia ,SP,1
+95,Neurologia,RS,1
+96,Ginecologia,BA,
+97,Psiquiatria,PR,1
+98,UROLOGIA,SC,1
+99,Oftalmologia,DF,1
+100,Clínica Geral,PE,1

@@ -1,11 +1,101 @@
 sk_diagnostico,codigo_cid,descricao_cid
 1,I10,Hipertensão essencial
-2,E11,Diabetes tipo 2
-3,J45,Asma
-4,M54,Dor lombar
-5,F32,Depressão
-6,E66,Obesidade
-7,G40,Epilepsia
-8,N39,Infecção urinária
-9,K21,Refluxo gastroesofágico
-10,C50,Neoplasia da mama
+2,E11, Diabetes mellitus tipo 2
+3,M54,Dorsalgia
+4,J06,Infecção aguda das vias aéreas superiores
+5,K29,
+6,F41,Outros transtornos ansiosos
+7,,Outros transtornos articulares
+8,H52,Transtornos da refração e da acomodação
+9,N39,Outros transtornos do trato urinário
+10,R51,Cefaleia
+11,I10,hipertensão essencial
+12,e11,Diabetes mellitus tipo 2
+13,M54,DORSALGIA
+14,J06,Infecção aguda das vias aéreas superiores
+15,K29,Gastrite e duodenite
+16,F41, Outros transtornos ansiosos 
+17,M25,Outros transtornos articulares
+18,h52,Transtornos da refração e da acomodação
+19,N39,
+20,R51,Cefaleia
+21,I10,Hipertensão essencial
+22,E11,Diabetes mellitus tipo 2
+23,,Dorsalgia
+24,J06,infecção aguda das vias aéreas superiores
+25,K29,Gastrite e duodenite
+26,F41,Outros transtornos ansiosos
+27,M25,OUTROS TRANSTORNOS ARTICULARES
+28,H52,Transtornos da refração e da acomodação
+29,N39,Outros transtornos do trato urinário
+30,r51,Cefaleia
+31,i10,Hipertensão essencial
+32,E11,Diabetes mellitus tipo 2
+33,M54,Dorsalgia
+34,J06,Infecção aguda das vias aéreas superiores
+35,K29,
+36,f41,Outros transtornos ansiosos
+37,M25,Outros transtornos articulares
+38,H52,transtornos da refração e da acomodação
+39,N39,Outros transtornos do trato urinário
+40,,Cefaleia
+41,I10,HIPERTENSÃO ESSENCIAL
+42,E11,diabetes mellitus tipo 2
+43,M54,Dorsalgia
+44,J06,Infecção aguda das vias aéreas superiores
+45,k29,Gastrite e duodenite
+46,F41,Outros transtornos ansiosos
+47,M25,
+48,H52,Transtornos da refração e da acomodação
+49,n39,Outros transtornos do trato urinário
+50,R51,CEFALEIA
+51,I10,Hipertensão essencial
+52,,Diabetes mellitus tipo 2
+53,M54,Dorsalgia
+54,J06,Infecção aguda das vias aéreas superiores
+55,K29,gastrite e duodenite
+56,F41,Outros transtornos ansiosos
+57,M25,Outros transtornos articulares
+58,H52,
+59,N39,Outros transtornos do trato urinário
+60,R51,Cefaleia
+61,i10,Hipertensão essencial
+62,E11,Diabetes mellitus tipo 2
+63,m54,Dorsalgia
+64,J06,
+65,K29,Gastrite e duodenite
+66,F41,outros transtornos ansiosos
+67,M25,Outros transtornos articulares
+68,h52,Transtornos da refração e da acomodação
+69,N39,Outros transtornos do trato urinário
+70,R51,cefaleia
+71,I10,Hipertensão essencial
+72,E11,DIABETES MELLITUS TIPO 2
+73,M54,Dorsalgia
+74,j06,Infecção aguda das vias aéreas superiores
+75,K29,Gastrite e duodenite
+76,,Outros transtornos ansiosos
+77,M25,Outros transtornos articulares
+78,H52,Transtornos da refração e da acomodação
+79,N39,
+80,R51,Cefaleia
+81,I10,hipertensão essencial
+82,e11,Diabetes mellitus tipo 2
+83,M54,dorsalgia
+84,J06,Infecção aguda das vias aéreas superiores
+85,K29,Gastrite e duodenite
+86,F41,Outros transtornos ansiosos
+87,,Outros transtornos articulares
+88,H52,Transtornos da refração e da acomodação
+89,N39,Outros transtornos do trato urinário
+90,r51,Cefaleia
+91,I10,Hipertensão essencial
+92,E11, Diabetes mellitus tipo 2 
+93,M54,Dorsalgia
+94,J06,
+95,K29,GASTRITE E DUODENITE
+96,f41,Outros transtornos ansiosos
+97,M25,Outros transtornos articulares
+98,H52,transtornos da refração e da acomodação
+99,N39,Outros transtornos do trato urinário
+100,R51,Cefaleia

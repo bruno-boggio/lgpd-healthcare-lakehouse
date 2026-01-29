@@ -1,11 +1,101 @@
 sk_exame,tipo_exame,categoria_exame
-1,Hemograma,Laboratorial
-2,Ressonância,Imagem
-3,Raio-X,Imagem
-4,Ultrassom,Imagem
-5,Eletrocardiograma,Funcional
-6,Tomografia,Imagem
-7,Glicemia,Laboratorial
-8,Colesterol,Laboratorial
-9,Biópsia,Procedimento
-10,Teste COVID,Laboratorial
+1,Hemograma Completo,Laboratorial
+2, Raio-X Tórax ,Imagem
+3,Eletrocardiograma,Cardiovascular
+4,Ultrassom Abdominal,
+5,Glicemia em Jejum,Laboratorial
+6,tomografia computadorizada,Imagem
+7,Ressonância Magnética,IMAGEM
+8,Colesterol Total,Laboratorial
+9,,Laboratorial
+10,Ecocardiograma,Cardiovascular
+11,HEMOGRAMA COMPLETO,laboratorial
+12,Raio-X Tórax,Imagem
+13,eletrocardiograma,Cardiovascular
+14,Ultrassom Abdominal,Imagem
+15,Glicemia em Jejum,
+16,Tomografia Computadorizada,Imagem
+17,ressonância magnética,Imagem
+18,Colesterol Total,LABORATORIAL
+19,Urina Tipo I,Laboratorial
+20,ecocardiograma,Cardiovascular
+21,Hemograma Completo,Laboratorial
+22,Raio-X Tórax,imagem
+23,Eletrocardiograma,Cardiovascular
+24,,Imagem
+25,Glicemia em Jejum,Laboratorial
+26,Tomografia Computadorizada,Imagem
+27,Ressonância Magnética,Imagem
+28,colesterol total,Laboratorial
+29,Urina Tipo I,Laboratorial
+30,Ecocardiograma,
+31,Hemograma Completo,Laboratorial
+32,raio-x tórax,Imagem
+33,ELETROCARDIOGRAMA,Cardiovascular
+34,Ultrassom Abdominal,Imagem
+35,glicemia em jejum,Laboratorial
+36,Tomografia Computadorizada,
+37,Ressonância Magnética,Imagem
+38,Colesterol Total,Laboratorial
+39,urina tipo i,Laboratorial
+40,Ecocardiograma,Cardiovascular
+41, Hemograma Completo,Laboratorial
+42,Raio-X Tórax,Imagem
+43,Eletrocardiograma ,Cardiovascular
+44,Ultrassom Abdominal,Imagem
+45,Glicemia em Jejum,laboratorial
+46,,Imagem
+47,Ressonância Magnética,Imagem
+48,Colesterol Total,Laboratorial
+49,Urina Tipo I,LABORATORIAL
+50,Ecocardiograma,Cardiovascular
+51,Hemograma Completo,Laboratorial
+52,RAIO-X TÓRAX,Imagem
+53,Eletrocardiograma,cardiovascular
+54,Ultrassom Abdominal,Imagem
+55,Glicemia em Jejum,Laboratorial
+56,Tomografia Computadorizada,imagem
+57,Ressonância Magnética,
+58,Colesterol Total,Laboratorial
+59,Urina Tipo I,Laboratorial
+60,ecocardiograma,Cardiovascular
+61,hemograma completo,Laboratorial
+62,Raio-X Tórax,Imagem
+63,Eletrocardiograma,Cardiovascular
+64,ultrassom abdominal,
+65,Glicemia em Jejum,Laboratorial
+66,Tomografia Computadorizada,Imagem
+67,,Imagem
+68,Colesterol Total,LABORATORIAL
+69,Urina Tipo I,Laboratorial
+70,Ecocardiograma,Cardiovascular
+71,Hemograma Completo,laboratorial
+72,Raio-X Tórax,IMAGEM
+73,eletrocardiograma,Cardiovascular
+74,Ultrassom Abdominal,Imagem
+75,GLICEMIA EM JEJUM,Laboratorial
+76,Tomografia Computadorizada,Imagem
+77,Ressonância Magnética,imagem
+78,Colesterol Total,
+79,Urina Tipo I,Laboratorial
+80,Ecocardiograma,Cardiovascular
+81,Hemograma Completo,Laboratorial
+82, Raio-X Tórax,Imagem
+83,Eletrocardiograma,cardiovascular
+84,Ultrassom Abdominal,Imagem
+85,Glicemia em Jejum,Laboratorial
+86,,Imagem
+87,Ressonância Magnética,Imagem
+88,colesterol total,Laboratorial
+89,urina tipo i,Laboratorial
+90,Ecocardiograma,CARDIOVASCULAR
+91,HEMOGRAMA COMPLETO,Laboratorial
+92,Raio-X Tórax ,Imagem
+93,Eletrocardiograma,Cardiovascular
+94,Ultrassom Abdominal,imagem
+95,Glicemia em Jejum,
+96,Tomografia Computadorizada,Imagem
+97,ressonância magnética,Imagem
+98,Colesterol Total,Laboratorial
+99,Urina Tipo I,laboratorial
+100,Ecocardiograma,Cardiovascular
